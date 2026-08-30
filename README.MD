@@ -1,1 +1,2 @@
 HELLO I AM LEARNING GIT AND GITHUB
+added some script
